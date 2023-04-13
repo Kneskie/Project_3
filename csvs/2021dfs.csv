@@ -1,4 +1,11 @@
-Unnamed: 0,Birthing Parents of Infants with NAS,Birthing Parents of Infants with NAS.1,All Birthing Parents who,Unnamed: 1,2019,Unnamed: 2,Unnamed: 3,2020,Unnamed: 4,Unnamed: 5,2021,Unnamed: 6,FIGURE 25,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,22,"1,200",70,20,90,180%,40,400,"Distinct Counts of Benzodiazepine Prescriptions, Prescribers, and Patients,Philadelphia, 2017-2021","Distinct Counts of Stimulant Prescriptions, Prescribers, and Patients,Philadelphia, 2017-2021",Opioid Overdose Death,Non-Opioid Overdose Death,Ages 15-29 years old,Ages 30-44 years old,Ages 45-59 years old,Ages 60 years old and older,Ages 15-29 years old.1,Ages 30-44 years old.1,Ages 45-59 years old.1,Ages 60 years old and older.1,"Opioid-Related Overdose Mortality Rate*, Count, Percent by Sex Assigned at Birth,Philadelphia, 2010-2021","Non-Opioid-Related Overdose Mortality Rate*, Count, Percent by Sex,Philadelphia, 2010-2021",Year,"Age-adjusted Rateper 100,000 residents",N,Percent,"Age-adjusted Rateper 100,000 residents.1",N.1,Percent.1,Non-Hispanic White,Non-Hispanic Black,Hispanic (any race),Other,"Age-adjusted Non-Opioid Mortality Rates†, Counts, and Percentages, by Race,Philadelphia, PA 2010-2020"
+Unnamed: 0,Birthing Parents of Infants with NAS,Birthing Parents of Infants with NAS.1,All Birthing Parents who,Unnamed: 1,2019,Unnamed: 2,Unnamed: 3,2020,Unnamed: 4,Unnamed: 5,2021,Unnamed: 6,FIGURE 25,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,22,"1,200",70,20,90,180%,40,400,"Distinct Counts of Benzodiazepine Prescriptions, Prescribers, and Patients,
+Philadelphia, 2017-2021","Distinct Counts of Stimulant Prescriptions, Prescribers, and Patients,
+Philadelphia, 2017-2021",Opioid Overdose Death,Non-Opioid Overdose Death,Ages 15-29 years old,Ages 30-44 years old,Ages 45-59 years old,Ages 60 years old and older,Ages 15-29 years old.1,Ages 30-44 years old.1,Ages 45-59 years old.1,Ages 60 years old and older.1,"Opioid-Related Overdose Mortality Rate*, Count, Percent by Sex Assigned at Birth,
+Philadelphia, 2010-2021","Non-Opioid-Related Overdose Mortality Rate*, Count, Percent by Sex,
+Philadelphia, 2010-2021",Year,"Age-adjusted Rate
+per 100,000 residents",N,Percent,"Age-adjusted Rate
+per 100,000 residents.1",N.1,Percent.1,Non-Hispanic White,Non-Hispanic Black,Hispanic (any race),Other,"Age-adjusted Non-Opioid Mortality Rates†, Counts, and Percentages, by Race,
+Philadelphia, PA 2010-2020"
 ,"Reported to PDPH, 2020","Reported to PDPH, 2021","Gave Birth, 2021",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Age Category,N %,N %,N %,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 <18,0 0%,0 0%,686 3%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -98,7 +105,13 @@ Other,,,,70 14.4,,14 6.3%,46 12.5%,,22 10.3%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,20.0,200.0,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,15.0,150.0,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,10.0,100.0,,,,,,,,,,,,,,,,,,,,,,,,,,
-Percent,,,,"Age-adjustedRates Per100,000Residents",,N,,"Age-adjustedRates Per100,000Residents",,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Percent,,,,"Age-adjusted
+Rates Per
+100,000
+Residents",,N,,"Age-adjusted
+Rates Per
+100,000
+Residents",,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 100,,,,73.6,,"1,276",,67.3,,,"1,214",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,Sex,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 75.1,,,,110.7,,918,,105.7,,,912,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -109,12 +122,25 @@ Percent,,,,"Age-adjustedRates Per100,000Residents",,N,,"Age-adjustedRates Pe
 20.4,,,,63.6,,225,,64.2,,,248,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 25.7,,,,135.0,,316,,132.4,,,312,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 22.2,,,,167.0,,312,,142.4,,,269,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"22.75.9",,,,"156.737.4",,"29986",,"142.628.6",,,"27571",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"22.7
+5.9",,,,"156.7
+37.4",,"299
+86",,"142.6
+28.6",,,"275
+71",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,Race/Ethnicity,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"42.140.9",,,,"80.779.9",,"524542",,"72.471.7",,,"511497",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"42.1
+40.9",,,,"80.7
+79.9",,"524
+542",,"72.4
+71.7",,,"511
+497",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 15.2,,,,80.5,,190,,78.1,,,185,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1.7,,,,10.6,,20,,12.0,,,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Number ofDistinct Prescribers",,,,"Number ofDistinct Patients",,,,,,,,,,,,,,,,,,,,,,,,,"TotalPrescriptions",,,,,,,,,,,,,,,,,,,,,,,,,
+"Number of
+Distinct Prescribers",,,,"Number of
+Distinct Patients",,,,,,,,,,,,,,,,,,,,,,,,,"Total
+Prescriptions",,,,,,,,,,,,,,,,,,,,,,,,,
 "4,411",,,,"72,310",,,,,,,,,,,,,,,,,,,,,,,,,"154,487",,,,,,,,,,,,,,,,,,,,,,,,,
 "4,427",,,,"72,232",,,,,,,,,,,,,,,,,,,,,,,,,"169,732",,,,,,,,,,,,,,,,,,,,,,,,,
 "4,522",,,,"69,723",,,,,,,,,,,,,,,,,,,,,,,,,"161,878",,,,,,,,,,,,,,,,,,,,,,,,,
@@ -135,7 +161,10 @@ Percent,,,,"Age-adjustedRates Per100,000Residents",,N,,"Age-adjustedRates Pe
 "4,281",,,,"50,039",,,,,,,,,,,,,,,,,,,,,,,,,"113,210",,,,,,,,,,,,,,,,,,,,,,,,,
 "4,381",,,,"49,075",,,,,,,,,,,,,,,,,,,,,,,,,"110,463",,,,,,,,,,,,,,,,,,,,,,,,,
 "4,198",,,,"47,834",,,,,,,,,,,,,,,,,,,,,,,,,"106,956",,,,,,,,,,,,,,,,,,,,,,,,,
-"Number ofDistinct Prescribers",,,,"Number ofDistinct Patients",,,,,,,,,,,,,,,,,,,,,,,,,,"TotalPrescriptions",,,,,,,,,,,,,,,,,,,,,,,,
+"Number of
+Distinct Prescribers",,,,"Number of
+Distinct Patients",,,,,,,,,,,,,,,,,,,,,,,,,,"Total
+Prescriptions",,,,,,,,,,,,,,,,,,,,,,,,
 "1,905",,,,"28,467",,,,,,,,,,,,,,,,,,,,,,,,,,"59,355",,,,,,,,,,,,,,,,,,,,,,,,
 "1,962",,,,"28,979",,,,,,,,,,,,,,,,,,,,,,,,,,"63,698",,,,,,,,,,,,,,,,,,,,,,,,
 "1,957",,,,"27,318",,,,,,,,,,,,,,,,,,,,,,,,,,"59,207",,,,,,,,,,,,,,,,,,,,,,,,
@@ -207,7 +236,9 @@ Year,,,,Year,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Age N Percent,Age  N Percent,Age  N Per
 2020,,,,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,24.2 121 11.6%,102.0 431 41.4%,120.5 349 33.5%,41.8 139 13.4%,* * *,10.7 43 24.9%,29.1 82 47.4%,13.9 45 26.0%,,,,,,,,,,,,,,
 2021,,,,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30.4 122 11.6%,99.1 412 39.2%,133.6 376 35.7%,43.7 141 13.4%,* * *,9.9 39 17.4%,37.2 109 48.7%,21.7 71 31.7%,,,,,,,,,,,,,,
 Females Assigned At Birth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Age-adjusted Rateper 100,000 residents",,,,N,,Percent,"Age-adjusted Rateper 100,000 residents",,N,Percent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Year,,,,,,,,,,,,,
+"Age-adjusted Rate
+per 100,000 residents",,,,N,,Percent,"Age-adjusted Rate
+per 100,000 residents",,N,Percent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Year,,,,,,,,,,,,,
 88,,,,29.6%,,26.7,209,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10.4,,,,,,,,,,,,,
 99,,,,25.5%,,35.0,290,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11.8,,,,,,,,,,,,,
 135,,,,31.9%,,35.3,288,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.8,,,,,,,,,,,,,
@@ -250,7 +281,23 @@ Year,,,,Age-,,Percent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Age- N Percent,
 2020,,,,-,,1.6%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,67.5 475 45.6%,54.2 378 36.3%,71.3 171 16.4%,17,
 2021,,,,-,,1.6%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,71.4 459 43.6%,59.9 399 37.9%,74.4 177 16.8%,17,
 Non-Hispanic White,,,,Non-Hispanic Black,,Hispanic (any race),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Age-adjustedRate per100,000residents",,,,N,,Percent,"Age-adjustedRate per100,000residents",,N,Percent,,"Age-adjustedRate per100,000residents",,N,Percent,"Age-adjustedRate per100,000residents",N,Percent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Year
+"Age-
+adjusted
+Rate per
+100,000
+residents",,,,N,,Percent,"Age-
+adjusted
+Rate per
+100,000
+residents",,N,Percent,,"Age-
+adjusted
+Rate per
+100,000
+residents",,N,Percent,"Age-
+adjusted
+Rate per
+100,000
+residents",N,Percent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Year
 24,,,,26.7%,,8.3,54,,60.0%,-,,12,,13.3%,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.8
 32,,,,32.0%,,9.3,62,,62.0%,-,,6,,6.0%,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3
 20,,,,22.2%,,8.4,60,,66.7%,-,,9,,10.0%,*,*,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.1
