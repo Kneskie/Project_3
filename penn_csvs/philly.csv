@@ -1,0 +1,12 @@
+Year,State,County,Population,Model-based Death Rate,Standard Deviation,Lower Confidence Limit,Upper Confidence Limit
+2020,Pennsylvania,"Philadelphia County, PA","1,578,487",70.40464,2.09887,66.41081,74.63983
+2017,Pennsylvania,"Philadelphia County, PA","1,581,699",65.85459,2.02712,62.00109,69.94874
+2019,Pennsylvania,"Philadelphia County, PA","1,584,439",63.11381,1.98229,59.34791,67.11979
+2018,Pennsylvania,"Philadelphia County, PA","1,586,422",59.59517,1.92436,55.94260,63.48731
+2016,Pennsylvania,"Philadelphia County, PA","1,576,604",47.22674,1.71534,43.98425,50.70927
+2015,Pennsylvania,"Philadelphia County, PA","1,571,679",36.17940,1.49982,33.35915,39.23898
+2014,Pennsylvania,"Philadelphia County, PA","1,565,949",32.99384,1.43331,30.30415,35.92311
+2012,Pennsylvania,"Philadelphia County, PA","1,552,087",29.68036,1.36349,27.12825,32.47338
+2011,Pennsylvania,"Philadelphia County, PA","1,540,615",28.40389,1.33786,25.90275,31.14735
+2013,Pennsylvania,"Philadelphia County, PA","1,558,713",26.01268,1.27140,23.64012,28.62410
+2010,Pennsylvania,"Philadelphia County, PA","1,525,999",22.66962,1.19637,20.44605,25.13571
